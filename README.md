@@ -7,7 +7,7 @@ V2
 * I use this patch with a TCS34725 RGB sensor. But this bpatcher my be adapted to use other RGB data inputs from a USB camera or video. 
 * Inside the bpatcher is an "i" icon. Click that to read more details on how the bpatcher works. 
 
-V1 (ColourDectect_MaxPatch)
+V1 (ColourDetect_MaxPatch)
 * V1 is A Max MSP bpatcher that compares incoming RGB values to stored values and outputs the name of the closest approximation for what the colour is.
 * I initially used it for a TCS34725 RGB sensor. But this bpatcher my be adapted to use other RGB data inputs from a USB camera or video. 
 * Inside the bpatcher is an "i" icon. Click that to read more details on how the bpatcher works. 
