@@ -13,4 +13,4 @@ V1 (ColourDetect_MaxPatch)
 * Inside the bpatcher is an "i" icon. Click that to read more details on how the bpatcher works. 
 * Most important thing to remember is you have to sample the colours before you start using the bpatcher for version 1. This is not necessary in V2.
 
-If you experience any issues or have any questions, let me know: www.chantelleko.com
+If you experience any issues or have any questions, please let me know: www.chantelleko.com
