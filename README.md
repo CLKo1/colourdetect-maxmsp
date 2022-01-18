@@ -1,4 +1,7 @@
 # colourdetect-maxmsp
+V4 
+* In the previous versions the values that I was receiving were well over 500. But I figured out why and now I am only receive RGB values up to 255, which is typical for colour. So the patch is adjusted accordingly for that. 
+
 V3 
 * I made some adjustments to make it more accurately detect the colours (for the samples that I am using). V2 was having some issues where if I lifted the Red sample away from the TCS34725 RGB colour sensor, it would falsely trigger the Green. This appears to be fixed (or at least happens less often) with V3. 
 
