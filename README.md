@@ -1,4 +1,7 @@
 # colourdetect-maxmsp
+V5 
+* I was doing some testing with both paint chips and with fabric that had fabric paint on them. I worked on getting the patch the most accurate when using either method and while using all colours available. It was really tricky for it to recognize the difference between orange and red, but I think I have it as close as it is going to get now. I noticed that the "clear" threshold is best set to 850 while using paint chips, and 1000 while using the fabric paint swatches. 
+
 V4 
 * In the previous versions the values that I was receiving were well over 500. But I figured out why and now I am only receiving RGB values up to 255, which is typical for colour. So the patch is adjusted accordingly for that. 
 
